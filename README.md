@@ -313,14 +313,13 @@ alembic downgrade -1
 
 
 docker-compose -f docker-compose.prod.yml up -d
-```
 
 ### Переменные окружения для продакшена
 
 ```env
 ENVIRONMENT=production
 ```
-```
+
 
 ### Рекомендации по безопасности
 - Используйте HTTPS
