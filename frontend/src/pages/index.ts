@@ -1,0 +1,12 @@
+export { LandingPage } from './LandingPage';
+export { LoginPage } from './LoginPage';
+export { RegisterPage } from './RegisterPage';
+export { DashboardPage } from './DashboardPage';
+export { TransactionsPage } from './TransactionsPage';
+export { DemoPage } from './DemoPage';
+export { BudgetPage } from './BudgetPage';
+export { AnalyticsPage } from './AnalyticsPage';
+export { InsightsPage } from './InsightsPage';
+export { SettingsPage } from './SettingsPage';
+export { ProfilePage } from './ProfilePage';
+export { GoalsPage } from './GoalsPage'
